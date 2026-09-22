@@ -151,7 +151,7 @@ Sree Venkateshwara Group of Management and Studies, K. R. Puram
 ## 📜 Certifications
 
 - **Python with Data Structure & Algorithm** — Artha Chanakya
-- **SQL and Front End** — Artha Chanakya
+- **SQL ** — Artha Chanakya
 - **Web Development** — Trimurti Facility Service
 
 ---
